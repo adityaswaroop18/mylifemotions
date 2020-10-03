@@ -1,0 +1,8 @@
+{
+  "name": "Mylifemotions",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dec85c6e"
+}
